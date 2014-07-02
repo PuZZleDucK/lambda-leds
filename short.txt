@@ -1,0 +1,19 @@
+
+
+parts: header pins and heatshrink
+
+cobbler & ide rails
+
+power supply
+
+5v usb
+
+led strip
+
+install java8
+
+demo 1: iteration and stream
+demo 2: ascii
+demo 3: shedule and make
+demo 4: paralell
+demo 5: ordered
